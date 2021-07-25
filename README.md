@@ -6,6 +6,8 @@ A repository for the following two assignments completed as part of **[MindOrks 
 2. **[Assignment - 2][]**
     * **[Assignment - 1][]** rewritten in _Kotlin_.
 
+_**Note:** Completed Project of Instagram Demo App can be found [here](https://github.com/kaushiknsanji/MindOrksInstagramDemo)._ 
+
 <!-- Reference Style Links are to be placed after this -->
 [MindOrks course]: https://mindorks.com/android-app-development-online-course-for-professionals
 [Assignment - 1]: https://github.com/kaushiknsanji/Mindorks_BootCamp_Assignments/tree/master/Assignment_1
